@@ -57,3 +57,44 @@ public class Address {
         return isPrivate;
     }
 }
+
+class Block{
+    public static String block;
+
+    public Block(String blockNum){
+        this.block = blockNum;
+    }
+    public String getBlock(){
+        return block;
+    }
+}
+class Street{
+    public static String street;
+
+    public Street(String streetName){
+        this.street = streetName;
+    }
+    public String getStreet(){
+        return street;
+    }
+}
+class Unit{
+    public static String unit;
+
+    public Unit(String unitNum){
+        this.Unit = unitNum;
+    }
+    public String getUnit(){
+        return unit;
+    }
+}
+class PostalCode{
+    public static String postalCode;
+
+    public PostalCode(String postNum){
+        this.postalCode = postNum;
+    }
+    public String getPostalCode(){
+        return postalCode;
+    }
+}
