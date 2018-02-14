@@ -233,6 +233,12 @@
 || 
 || 2 persons listed!
 || ===================================================
+|| Enter command: || [Command entered:  sort]
+|| 	1. Betsy Choo Tags: [secretive]
+|| 	2. Charlie Dickson Email: charlie.d@nus.edu.sg Address: 333, gamma street Tags: [school][friends]
+||
+|| Address Book Sorted
+|| ===================================================
 || Enter command: || [Command entered:  delete]
 || Invalid command format! 
 || delete: Deletes the person identified by the index number used in the last person listing.
