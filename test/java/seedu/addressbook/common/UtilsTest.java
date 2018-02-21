@@ -47,7 +47,7 @@ public class UtilsTest {
         assertNotNull("abc");
 
         // all null object
-        assertAreNull(null);
+        assertAreNull((Object)null);
         assertAreNull(null, null);
 
         // some null objects
