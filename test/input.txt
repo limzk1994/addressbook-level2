@@ -159,17 +159,6 @@
 # test sort command
 ##########################################################
 
-# last active view: [1] betsy [2] dickson
-
-  # add Charlie so that we can illustrate sort (current: B D C A)
-  add Charlie Dickson pp/333333 e/charlie.d@nus.edu.sg a/333, gamma street t/friends t/school
-  add Andy pp/123123 e/andy@nus.edu.sg a/123, andy street t/friends t/school
-
-  # Shows current messy list
-  list
-
-  # Sorts to be of the correct order Andy -> Betty -> Charlie -> Dickson
+  # Sorts to be of the correct order
   sort
-
-  # List should now be sorted
   list
