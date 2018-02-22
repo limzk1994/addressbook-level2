@@ -289,23 +289,12 @@
 || Enter command: || [Command entered:  list]
 || 	1. Betsy Choo Tags: [secretive]
 || 	2. Dickson Ee Phone: 444444 Address: 444, delta street Tags: [friends]
-|| 
-|| 2 persons listed!
-|| ===================================================
-|| Enter command: || [Command entered:  add Charlie pp/333333 e/charlie.d@nus.edu.sg a/333, gamma street t/school
-|| New person added: Charlie Phone: (private) 333333 Email: charlie.d@nus.edu.sg Address: 333, gamma street Tags: [school]
-|| ===================================================
-|| Enter command: || [Command entered:  list]
-|| 	1. Betsy Choo Tags: [secretive]
-|| 	2. Dickson Ee Phone: 444444 Address: 444, delta street Tags: [friends]
-|| 	3. Charlie Email: charlie.d@nus.edu.sg Address: 333, gamma street Tags: [school]
 ||
-|| 3 persons listed!
+|| 2 persons listed!
 || ===================================================
 || Enter command: || [Command entered:  sort]
 || 	1. Betsy Choo Tags: [secretive]
-|| 	2. Charlie Email: charlie.d@nus.edu.sg Address: 333, gamma street Tags: [school]
-|| 	3. Dickson Ee Phone: 444444 Address: 444, delta street Tags: [friends]
+|| 	2. Dickson Ee Phone: 444444 Address: 444, delta street Tags: [friends]
 ||
 || Address Book Sorted
 || ===================================================
