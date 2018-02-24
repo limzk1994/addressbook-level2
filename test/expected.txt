@@ -42,6 +42,7 @@
 || Enter command: || [Command entered:  clear]
 ||
 || Address book has been cleared!
+|| Persons deleted.
 || ===================================================
 || Enter command: || [Command entered:  list]
 || 
@@ -296,6 +297,7 @@
 || 	2. Dickson Ee Phone: 444444 Address: 444, delta street Tags: [friends]
 ||
 || Address book has been cleared!
+|| Persons deleted.
 || ===================================================
 || Enter command: || [Command entered:  list]
 || 
