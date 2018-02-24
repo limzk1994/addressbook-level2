@@ -18,8 +18,8 @@ public class ClearCommand extends Command {
 
     @Override
     public CommandResult execute() {
-        addressBook.clear();
         List<ReadOnlyPerson> allPersons = addressBook.getAllPersons().immutableListView();
+        addressBook.clear();
         return new CommandResult(MESSAGE_SUCCESS, allPersons);
     }
 }
